@@ -11,6 +11,7 @@ body {
     text-align: center;
     margin-top: 40px;
     margin-bottom: 60px;
+    color: #0f0a41;
   }
   
   form {
@@ -33,7 +34,7 @@ body {
   
   #search-button {
     padding: 10px 20px;
-    background-color: #4caf50;
+    background-color: #0b155d;
     color: white;
     border: none;
     font-size: 18px;
@@ -44,7 +45,7 @@ body {
   }
   
   #search-button:hover {
-    background-color: #3e8e41;
+    background-color: #5142ed;
   }
   
   .search-results {
